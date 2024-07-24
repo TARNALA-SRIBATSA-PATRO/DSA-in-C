@@ -21,8 +21,9 @@
 #define SIZE 100
 
 void print_trip(int trip[][3], int k) {
+    int i;
     printf("Trip Representation (row, column, value):\n");
-    for (int i = 0; i < k; i++) {
+    for (i = 0; i < k; i++) {
         printf("%d\t%d\t%d\n", trip[i][0], trip[i][1], trip[i][2]);
     }
 }
