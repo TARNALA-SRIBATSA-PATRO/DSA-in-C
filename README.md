@@ -1,6 +1,6 @@
 # DSA in C
 
-This repository contains implementations of various Data Structures and Algorithms (DSA) in the C programming language. The aim is to provide clear and well-documented examples to help students and developers understand and implement these concepts in C.
+This repository contains implementations of various Data Structures and Algorithms (DSA) in the C programming language.
 
 ## Contents
 
