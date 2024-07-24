@@ -2,7 +2,7 @@
  * Filename: insertion_sort.c
  * Description: This program implements the Insertion Sort algorithm to sort an array of integers in ascending order.
  * Author: Tarnala Sribatsa Patro
- * Date: 2024-07-24
+ * Date: 24-07-2024
  * Compilation: gcc -o insertion_sort insertion_sort.c
  * Execution: ./insertion_sort
  *
