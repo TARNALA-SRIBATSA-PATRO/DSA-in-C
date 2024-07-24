@@ -2,7 +2,7 @@
  * Filename: bubble_sort.c
  * Description: This program implements the Bubble Sort algorithm to sort an array of integers in ascending order.
  * Author: Tarnala Sribatsa Patro
- * Date: 2024-07-24
+ * Date: 24-07-2024
  * Compilation: gcc -o bubble_sort bubble_sort.c
  * Execution: ./bubble_sort
  */
